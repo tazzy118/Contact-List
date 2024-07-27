@@ -1,0 +1,17 @@
+C:\Users\tasni\OneDrive\Desktop\C# Work\Contact List\Contact List\bin\Debug\net6.0\Contact List.exe
+C:\Users\tasni\OneDrive\Desktop\C# Work\Contact List\Contact List\bin\Debug\net6.0\Contact List.deps.json
+C:\Users\tasni\OneDrive\Desktop\C# Work\Contact List\Contact List\bin\Debug\net6.0\Contact List.runtimeconfig.json
+C:\Users\tasni\OneDrive\Desktop\C# Work\Contact List\Contact List\bin\Debug\net6.0\Contact List.dll
+C:\Users\tasni\OneDrive\Desktop\C# Work\Contact List\Contact List\bin\Debug\net6.0\Contact List.pdb
+C:\Users\tasni\OneDrive\Desktop\C# Work\Contact List\Contact List\obj\Debug\net6.0\Contact List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tasni\OneDrive\Desktop\C# Work\Contact List\Contact List\obj\Debug\net6.0\Contact List.AssemblyInfoInputs.cache
+C:\Users\tasni\OneDrive\Desktop\C# Work\Contact List\Contact List\obj\Debug\net6.0\Contact List.AssemblyInfo.cs
+C:\Users\tasni\OneDrive\Desktop\C# Work\Contact List\Contact List\obj\Debug\net6.0\Contact List.csproj.CoreCompileInputs.cache
+C:\Users\tasni\OneDrive\Desktop\C# Work\Contact List\Contact List\obj\Debug\net6.0\Contact List.dll
+C:\Users\tasni\OneDrive\Desktop\C# Work\Contact List\Contact List\obj\Debug\net6.0\refint\Contact List.dll
+C:\Users\tasni\OneDrive\Desktop\C# Work\Contact List\Contact List\obj\Debug\net6.0\Contact List.pdb
+C:\Users\tasni\OneDrive\Desktop\C# Work\Contact List\Contact List\obj\Debug\net6.0\Contact List.genruntimeconfig.cache
+C:\Users\tasni\OneDrive\Desktop\C# Work\Contact List\Contact List\obj\Debug\net6.0\ref\Contact List.dll
+C:\Users\tasni\OneDrive\Desktop\C# Work\Contact List\Contact List\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\tasni\OneDrive\Desktop\C# Work\Contact List\Contact List\obj\Debug\net6.0\Contact List.csproj.AssemblyReference.cache
+C:\Users\tasni\OneDrive\Desktop\C# Work\Contact List\Contact List\obj\Debug\net6.0\Contact .5BE28413.Up2Date

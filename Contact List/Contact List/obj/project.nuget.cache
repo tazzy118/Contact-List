@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JHo8r800lr8Jd22Hp6k8ScIgkNQwxX5Uf6usJccQf/4pcaZ1RdqPODccIpNH+zms8eRhko5O4BVAiIiE3lnPSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tasni\\OneDrive\\Desktop\\C# Work\\Contact List\\Contact List\\Contact List.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tasni\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
